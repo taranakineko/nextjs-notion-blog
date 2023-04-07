@@ -3,19 +3,14 @@
   "short_name": "lizhimiao的博客",
   "icons": [
     {
-      "src": "/favicon.png",
-      "type": "image/png",
-      "sizes": "32x32"
+      "src": "/taranaki.webp",
+      "type": "image/webp",
+      "sizes": "200x200"
     },
     {
-      "src": "/favicon-128x128.png",
-      "type": "image/png",
+      "src": "/favicon.ico",
+      "type": "image/icon",
       "sizes": "128x128"
-    },
-    {
-      "src": "/favicon-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
     }
   ],
   "theme_color": "#000000",
